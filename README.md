@@ -4,19 +4,17 @@ My name is Mattia and, unfortunately, I'm a javascript developer 😬
 
 
 ### 🛠 Technologies
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Docker](https://img.shields.io/badge/-Docker-333?&logo=Docker)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea)
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=for-the-badge&logo=vue.js)
+![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=Docker)
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+![Laravel](https://img.shields.io/badge/-laravel-333333?style=for-the-badge&logo=laravel)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java&logoColor=FFA518)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=for-the-badge&logo=intellij-idea)
 
 
 ### ⚙️ My stats
