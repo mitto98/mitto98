@@ -21,7 +21,7 @@ My name is Mattia and, unfortunately, I'm a javascript developer 😬
 
 <p align="center">
 <a href="https://github.com/mitto98">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mitto98&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=000&theme=graywhite"/><img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mitto98&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&theme=graywhite"/>
+  <img height="137.3px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mitto98&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=000&theme=graywhite"/><img  height="137.3px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mitto98&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&theme=graywhite"/>
 </a>
 </p>
 
